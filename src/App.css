@@ -1,8 +1,11 @@
 .header .card-body{
-  height: 400px;
+  height: 600px;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   background: #9abf9a;
+}
+.navbarku {
+  background-color: rgb(212, 159, 159);
 }
